@@ -1,0 +1,7 @@
+Accuracy before removing stop words
+Accuracy of Spam document is :98.46153846153847
+Accuracy of Ham document is :95.40229885057471
+
+Accuracy after removing stop words:
+Accuracy of Spam document is :98.46153846153847
+Accuracy of Ham document is :85.63218390804597
